@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.yjw.assignment2.MainActivity"
+    tools:showIn="@layout/app_bar_main"
+    android:orientation="vertical">
+    <!--android:background="@android:color/holo_green_dark">-->
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/content_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!--android:background="@android:color/holo_blue_bright"-->
+            </FrameLayout>
+    </ScrollView>
+
+    <!--<TextClock
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:format12Hour="dd/MM/yy h:mm:ssaa"
+        android:timeZone="GMT+1000"
+        android:id="@+id/textClock" />
+
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textClock"
+        android:layout_marginTop="19dp" />
+
+    <TextView
+        android:id="@+id/fName"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvResult" />-->
+
+
+
+</RelativeLayout>

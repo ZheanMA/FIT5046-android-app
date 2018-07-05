@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="suburb_array">
+        <item>----Please Choose----</item>
+        <item>Armadale</item>
+        <item>Ashburton</item>
+        <item>Ashwood</item>
+        <item>Aspendale</item>
+        <item>Balaclava</item>
+        <item>Bangholme</item>
+        <item>Bayswater</item>
+        <item>Beaumaris</item>
+        <item>Belgrave</item>
+        <item>Bentleigh</item>
+        <item>Bonbeach</item>
+        <item>Boronia</item>
+        <item>Braeside</item>
+        <item>Brighton</item>
+        <item>Carlton</item>
+        <item>Carnegie</item>
+        <item>Carrum</item>
+        <item>Caulfield</item>
+        <item>Chadstone</item>
+        <item>Chelsea</item>
+        <item>Cheltenham</item>
+        <item>Clarinda</item>
+        <item>Clayton</item>
+        <item>Dandenong</item>
+        <item>Doveton</item>
+        <item>Edithvale</item>
+        <item>Elsternwick</item>
+        <item>Elwood</item>
+        <item>Eumemmerring</item>
+        <item>Footscray</item>
+        <item>Frankston</item>
+        <item>Gardenvale</item>
+        <item>Hampton</item>
+        <item>Heatherton</item>
+        <item>Highett</item>
+        <item>Hughesdale</item>
+        <item>Huntingdale</item>
+        <item>Keysborough</item>
+        <item>Knoxfield</item>
+        <item>Kooyong</item>
+        <item>Lysterfield</item>
+        <item>McKinnon</item>
+        <item>Mentone</item>
+        <item>Moorabbin</item>
+        <item>Mordialloc</item>
+        <item>Mulgrave</item>
+        <item>Murrumbeena</item>
+        <item>Oakleigh</item>
+        <item>Ormond</item>
+        <item>Parkdale</item>
+        <item>Richmond</item>
+        <item>Ripponlea</item>
+        <item>Rowville</item>
+        <item>Sandringham</item>
+        <item>Scoresby</item>
+        <item>Seaford</item>
+        <item>Selby</item>
+        <item>Springvale</item>
+        <item>Tecoma</item>
+        <item>Toorak</item>
+        <item>Upwey</item>
+        <item>Wantirna</item>
+        <item>Waterways</item>
+        <item>Windsor</item>
+
+
+    </string-array>
+    <string-array name="post_code"/>
+
+    <string-array name="type_array">
+        <item>--Please Choose--</item>
+        <item>Hourly</item>
+        <item>Daily</item>
+    </string-array>
+</resources>
